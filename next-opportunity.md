@@ -1,6 +1,6 @@
 Hi! I'm  
 ## [David J. Groom](https://www.linkedin.com/in/davidjgroom/)
-(often known as)
+###### (often known as)
 ### [ishotjr](http://ishotjr.com/)
 
 Excitedly seeking my next opportunity!  
@@ -120,5 +120,5 @@ Lately I've been having a blast [writing for Hackster News](https://www.hackster
 
 ## Next Steps
 
-This is just the beginning! Let's [connect on LinkedIn](https://www.linkedin.com/in/davidjgroom/)! Why not [follow me on Twitter](https://twitter.com/IShJR)? There's a bunch of cool stuff on [my GitHub](https://github.com/ishotjr). Even cooler stuff on [Hackster!](https://www.hackster.io/ishotjr). Join my [tinyML Meetup](https://www.meetup.com/tinyML-Enabling-low-Power-ML-at-the-edge-Ann-Arbor-MI/). [Send me an email](mailto:connect@ishotjr.net)!!  
+This is just the beginning! Let's [connect on LinkedIn](https://www.linkedin.com/in/davidjgroom/)! Why not [follow me on Twitter](https://twitter.com/IShJR)? There's a bunch of cool stuff on [my GitHub](https://github.com/ishotjr). Even cooler stuff on [Hackster](https://www.hackster.io/ishotjr)! Join my [tinyML Meetup](https://www.meetup.com/tinyML-Enabling-low-Power-ML-at-the-edge-Ann-Arbor-MI/). [Send me an email](mailto:connect@ishotjr.net)!!  
 ### Talk to you soon!!! :)  

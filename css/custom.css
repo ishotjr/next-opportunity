@@ -9,3 +9,31 @@
 a.internal:hover {
   color: #fc8dcf;
 }
+
+.reveal h6 {
+  font-size: 60%;
+  text-transform: none;
+  font-style: italic;
+  margin: 0;
+}
+
+/*********************************************
+ * persistent header - thank you, https://salferrarello.com/persistent-header-reveal-js/
+ *********************************************/
+
+.persistent-header {
+  position: relative;
+  z-index: 2;
+}
+.print-pdf .persistent-header { display: none; }
+@media print { .persistent-header { display: none; } }
+
+.persistent-header a {
+  color: #6fa7cd;
+  float: right;
+  margin: 20px;
+}
+.persistent-header a:nth-child(1) {
+  color: #b785a3;
+  float: left;
+}
