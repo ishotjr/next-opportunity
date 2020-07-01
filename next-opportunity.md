@@ -50,7 +50,7 @@ Most recently I founded [oasis AI](https://oasisai.github.io/), with the aim of 
 
 ## The rest...
 
-When I'm not running however many businesses or starting new ones, [being interviewed for high-profile tech blogs](https://www.engadget.com/2020-03-03-undead-gadgets.html), answering Rebble support tickets, or winning hackathons, I'm mostly focusing on Machine Learning on embedded devices. I attended the first ever [Arm AIoT Dev Summit](http://ishotjr.com/first-arm-aiot-dev-summit-in-pictures/) in December as a guest of Arm, and while I was already extremely interested in this area before, it served as a real catalyst for obsession with this technology.  
+When I'm not guiding my many ventures (or starting new ones!), [being interviewed for high-profile tech blogs](https://www.engadget.com/2020-03-03-undead-gadgets.html), answering Rebble support tickets, or winning hackathons, I'm mostly focusing on Machine Learning on embedded devices. I attended the first ever [Arm AIoT Dev Summit](http://ishotjr.com/first-arm-aiot-dev-summit-in-pictures/) in December as a guest of Arm, and while I was already extremely interested in this area before, it served as a real catalyst for obsession with this technology.  
 
 <a href="#/4/1" class="internal">more below</a>...  
 
