@@ -1,0 +1,11 @@
+
+/*********************************************
+ * let's go pink!
+ *********************************************/
+.controls-arrow, a.internal {
+  color: #fa42af;
+}
+
+a.internal:hover {
+  color: #fc8dcf;
+}
